@@ -1,0 +1,101 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.header {
+	background-color: #444;
+}
+
+.blankHeader {
+	width: 140px;
+	height: 40px;
+	background-color: #ff8000;
+	float: left;
+	margin: 7.5px 150px 7.5px 200px;
+}
+
+.header h4 {
+	float: left;
+}
+
+.menu {
+	color: #aaaaaa;
+	font-size: 18px;
+	padding: 16px 20px;
+	font-family: sans-serif;
+}
+
+ul {
+	list-style: none;
+}
+
+.clearList {
+	clear: both;
+	float: none;
+}
+
+.emptyContainer {
+	width: 100%;
+	height: 485px;
+	background-color: #71c4ea;
+}
+
+.dataHeading {
+	text-align: center;
+	padding: 66px 36px 70px;
+	font-family: sans-serif;
+}
+
+.art {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.art li {
+	float: left;
+	text-align: center;
+}
+
+#clearList {
+	clear: both;
+	float: none;
+}
+
+.artContainer {
+	margin-right: 75px;
+	width: 140px;
+	height: 140px;
+	background-color: #efefef;
+	border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.para {
+	text-align: center;
+	width: 140px;
+	height: 150px;
+}
+
+.footerMenu {
+	background-color: #ececec;
+}
+
+.footerMenu li {
+	margin-left: 35%;
+}
+
+.footerMenu h4 {
+	float: left;
+}
+
+.footer {
+	font-size: 16px;
+	font-family: sans-serif;
+	color: #ff8000;
+	padding: 15px 10px;
+}
+
+.footerMenu h4:hover {
+	color: #444444;
+}
